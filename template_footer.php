@@ -1,0 +1,1 @@
+<div align="center" id="pageFooter">Copyright © | <a href="http://localhost/Webucator/ClassFiles/MyOnlineStore2/storeadmin/">Admin</a></div>
